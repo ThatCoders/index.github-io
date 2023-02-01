@@ -3,7 +3,7 @@
     "description": "那个码农钟意的主页",
     "keywords": "那个码农,钟意主页",
     "author": "Naive",
-    "logo_img": "./img/icon/logo.png",
+    "logo_img": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp",
     "logo_text_1": "coder",
     "logo_text_2": "cn",
     "github": "ThatCoders",
@@ -23,7 +23,7 @@
     ],
     "link_3": [
         "https://giligili.work/",
-        "fa-solid fa-game",
+        "fa-solid fa-compass",
         "资源栈"
     ],
     "link_4": [
@@ -34,7 +34,7 @@
     "link_5": [
         "https://web.imsyy.top/",
         "fa-solid fa-book-bookmark",
-        "因缺思厅"
+        "imsyy导航"
     ],
     "link_6": [
         "https://api.seclusion.work/",
